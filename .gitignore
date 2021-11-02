@@ -1,0 +1,8 @@
+submarine.egg-info
+submarine/__pycache__/*
+tests/__pycache__/*
+config/*
+*.pyc
+.cache/*
+.DS_Store
+*.ipynb
